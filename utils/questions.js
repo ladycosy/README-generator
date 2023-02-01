@@ -31,13 +31,14 @@ const questions = [
       message: "Please, select the license you used for this project",
       name: "license",
       choices: [
-        "GNU AGPLv3",
-        "GNU GPLv3",
-        "GNU LGPLv3",
         "Mozilla",
         "MIT",
         "Apache",
         "Boost",
+        "GNU AGPLv3",
+        "GNU GPLv3",
+        "GNU LGPLv3",
+      
       ],
     },
     {
