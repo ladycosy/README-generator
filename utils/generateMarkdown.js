@@ -22,7 +22,8 @@ Installation instructions: ${data.installation}
 ${data.usage}
 ---
 ## Contributing
-If you would like to contribute to further dev: ${data.contributing}
+If you would like to contribute to further dev: 
+${data.contribution}
    
 ---
 ## Tests
@@ -31,9 +32,12 @@ ${data.tests}
 ## Questions
 ${data.questions} 
 If you have any questions about the repo, 
-open an issue or contact me directly at 
-You can find more of my work at 
+open an issue or contact me directly at: ${data.email}
+You can find more of my work at: [lady cosy](${data.ghusername}) 
 ---
+## License
+  License used for this project: ${data.license}
+  
 `;
 }
 

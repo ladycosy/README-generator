@@ -1,52 +1,45 @@
 # First project
-  
 
-  ## Description
+## Description
 
-  This is my first prjoect
+This is my first prjoect
 
-  ## Table of Contents 
+## Table of Contents
 
-  * [Installation](#installation)
+- [Installation](#installation)
 
-  * [Usage](#usage)
+- [Usage](#usage)
 
-  
-  
-  * [Contributing](#contributing)
+- [Contributing](#contributing)
 
-  * [Tests](#tests)
+- [Tests](#tests)
 
-  * [Questions](#questions)
+- [Questions](#questions)
 
-  ## Installation
+## Installation
 
-  To install necessary dependencies, run the following command:
+To install necessary dependencies, run the following command:
 
-  ```
-  npm install
-  ```
+```
+npm install
+```
 
-  ## Usage
+## Usage
 
-  a bit of javascript
+a bit of javascript
 
-  
-    
-  ## Contributing
+## Contributing
 
-  Js, html and css
+Js, html and css
 
-  ## Tests
+## Tests
 
-  To run tests, run the following command:
+To run tests, run the following command:
 
-  ```
-  npm run test
-  ```
+```
+npm run test
+```
 
-  ## Questions
+## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at dav@gmail.com. You can find more of my work at [dav](https://github.com/dav/).
-
-  
+If you have any questions about the repo, open an issue or contact me directly at dav@gmail.com. You can find more of my work at [dav](https://github.com/dav/).
